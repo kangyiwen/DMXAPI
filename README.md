@@ -1,7 +1,7 @@
 # DMXAPI
 [https://DMXAPI.com](https://DMXAPI.com)
 全球人工智能大模型API聚合   Free OpenAI key
-![866805321a5f91e48fa06a3da4136a8](https://github.com/user-attachments/assets/3688c1e7-1401-423d-a6c8-be5128402103)
+![DMXAPI首屏](https://github.com/user-attachments/assets/83be2d4d-7278-43e5-b8d8-b3db118e1a6a)
 
 ### 选择 DMXAPI 的理由
 DMX 是 大模型 的拼音首字母，DMXAPI 由 LangChain 中文网 提供的大模型 API 智能聚合服务，帮助每个LLM应用开发初学者快速通过 API 接入大模型的世界。
@@ -24,4 +24,5 @@ LLM文本模型 & 文生图模型 & TTS模型 & 文生视频模型
 
 ### 与全球AI开发者，一起加入 DMXAPI 吧！
 DMXAPI提供领先的AI大模型API服务，支持文本、视频、图像和音频。简化接入流程，快速使用最新技术。立即加入，提升效率，与全球开发者一起创新！
-![be61305f759cf58094913ff6f2c65bb](https://github.com/user-attachments/assets/44173c72-bdc9-4e69-a8b1-aeadd50dd45f)
+
+![大模型API就用DMXAPI，聚集全球100个主流大模型API聚合](https://github.com/user-attachments/assets/ada4918c-a7da-48ee-94d9-099b8aac2a09)
